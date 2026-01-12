@@ -46,7 +46,8 @@ uploads/
 Thumbs.db
 
 # Streamlit
-.streamlit/
+.streamlit/*
+!.streamlit/config.toml
 
 # Model cache (optional - uncomment if you don't want to track model files)
 # .cache/
