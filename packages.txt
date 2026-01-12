@@ -1,8 +1,4 @@
-# System dependencies for Tesseract OCR
-# Note: This is for platforms that support apt-get
-# For Streamlit Cloud, Tesseract needs to be available in the environment
 
-# If deploying on platforms that need system packages:
-# tesseract-ocr
-# libtesseract-dev
+tesseract-ocr
+libtesseract-dev
 
