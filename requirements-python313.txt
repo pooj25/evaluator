@@ -1,0 +1,17 @@
+# Requirements optimized for Python 3.13
+# Use this if you encounter build issues with the main requirements.txt
+
+streamlit>=1.32.0
+pytesseract>=0.3.10
+Pillow>=10.4.0
+opencv-python-headless>=4.9.0
+numpy>=1.26.0
+pandas>=2.2.0
+sqlalchemy>=2.0.25
+transformers>=4.36.0
+torch>=2.2.0
+sentence-transformers>=2.3.0
+scikit-learn>=1.4.0
+python-dotenv>=1.0.0
+plotly>=5.18.0
+
